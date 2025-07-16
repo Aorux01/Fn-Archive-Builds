@@ -36,6 +36,6 @@ For questions, contributions, or suggestions, feel free to contact me on Discord
 
 | Build                                      | Download Link                                                      |
 |--------------------------------------------|-------------------------------------------------------------------|
-| 10.30-CL-8569414                           | [Download](https://fn-archive.com/chapter-1/FortniteClient-10.30-CL-8569414.rar) |
+| 10.30-CL-8569414                           | [Download]([https://fn-archive.com/chapter-1/FortniteClient-10.30-CL-8569414.rar](https://download.fn-archive.com/FortniteClient-10.30-CL-8569414.rar)) |
 
 *If you have builds you'd like to contribute or share, please reach out!*
