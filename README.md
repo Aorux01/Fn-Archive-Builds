@@ -32,7 +32,19 @@ For questions, contributions, or suggestions, feel free to contact me on Discord
 
 ## 📥 Available Downloads
 
-### Chapter 1
+### Season 6
+
+| Build                                      | Download Link                                                      |
+|--------------------------------------------|-------------------------------------------------------------------|
+| 6.20-CL-4497486                            | [Download](https://download.fn-archive.com/FortniteClient-6.20-CL-4497486.rar) |
+
+### Season 9
+
+| Build                                      | Download Link                                                      |
+|--------------------------------------------|-------------------------------------------------------------------|
+| 9.20-CL-6822798                            | [Download](https://download.fn-archive.com/FortniteClient-9.20-CL-6822798.rar) |
+
+### Season 10
 
 | Build                                      | Download Link                                                      |
 |--------------------------------------------|-------------------------------------------------------------------|
