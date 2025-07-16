@@ -14,7 +14,6 @@ Visit the main website for updates and more resources:
 
 --- 
 -->
----
 
 ## 🤝 Credits & Contributions
 
