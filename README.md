@@ -54,8 +54,8 @@ For questions, contributions, or suggestions, feel free to contact me on Discord
 
 | Build                                      | Download Link                                                      |
 |--------------------------------------------|-------------------------------------------------------------------|
-| 11.00-CL-9562734                           | ```Soon``` |
-| 11.01-CL-9728272                           | ```Soon``` |
+| 11.00-CL-9562734                           | [Download](https://download.fn-archive.com/FortniteClient-11.00-CL-9562734.7z) |
+| 11.01-CL-9728272                           | [Download](https://download.fn-archive.com/FortniteClient-11.01-CL-97282720.7z) |
 | 11.10-CL-9901083                           | ```Soon``` |
 | 11.11-CL-10082788                          | ```Soon``` |
 | 11.21-CL-10481509                          | ```Soon``` |
