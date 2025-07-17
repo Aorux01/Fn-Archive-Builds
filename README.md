@@ -72,8 +72,8 @@ For questions, contributions, or suggestions, feel free to contact me on Discord
 
 | Build                                      | Download Link                                                      |
 |--------------------------------------------|-------------------------------------------------------------------|
-| 15.00-CL-14835335                          | ```Soon``` |
-| 15.21-CL-15083856                          | ```Soon``` |
+| 15.00-CL-14835335                          | [Download](https://download.fn-archive.com/FortniteClient-15.00-CL-14835335.7z) |
+| 15.21-CL-15083856                          | [Download](https://download.fn-archive.com/FortniteClient-15.21-CL-15083856.7z) |
 
 ### Season 16
 
