@@ -5,6 +5,8 @@ Welcome to the **FN Archive** project!
 This repository is a curated archive of Fortnite builds.  
 Below you will find direct download links to various versions of the game, organized by chapter and season.
 
+This is my CDN, I pay for it out of my own pocket so **I hope you enjoy it**!
+
 ---
 
 <!-- ## 🌐 Website
