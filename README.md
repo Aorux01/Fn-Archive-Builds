@@ -81,21 +81,23 @@ For questions, contributions, or suggestions, feel free to contact me on Discord
 
 | Build                                      | Download Link                                                      |
 |--------------------------------------------|-------------------------------------------------------------------|
-| 16.00-CL-15685441                          | ```Soon``` |
-| 16.50-CL-16469788                          | ```Soon``` |
+| 16.00-CL-15685441                          | [Download](https://download.fn-archive.com/FortniteClient-16.00-CL-15685441.7z) |
+| 16.50-CL-16469788                          | [Download](https://download.fn-archive.com/FortniteClient-16.50-CL-16469788.7z) |
 
 ### Season 17
 
 | Build                                      | Download Link                                                      |
 |--------------------------------------------|-------------------------------------------------------------------|
-| 17.20-CL-16868155                          | ```Soon``` |
-| 17.21-CL-16967001                          | ```Soon``` |
+| 17.10-CL-16745144                          | ```Soon``` |
+| 17.20-CL-16868155                          | [Download](https://download.fn-archive.com/FortniteClient-17.20-CL-16868155.7z) |
+| 17.21-CL-16967001                          | [Download](https://download.fn-archive.com/FortniteClient-17.21-CL-16967001.7z) |
+| 17.40-CL-17269705                          | ```Soon``` |
 
 ### Season 18
 
 | Build                                      | Download Link                                                      |
 |--------------------------------------------|-------------------------------------------------------------------|
-| 18.20-CL-17792290                          | ```Soon``` |
-| 18.21-CL-17811397                          | ```Soon``` |
+| 18.20-CL-17792290                          | [Download](https://download.fn-archive.com/FortniteClient-18.20-CL-17792290.7z) |
+| 18.21-CL-17811397                          | [Download](https://download.fn-archive.com/FortniteClient-18.21-CL-17811397.7z) |
 
 *If you have builds you'd like to contribute or share, please reach out!*
