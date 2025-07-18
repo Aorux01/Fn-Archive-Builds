@@ -58,10 +58,10 @@ For questions, contributions, or suggestions, feel free to contact me on Discord
 |--------------------------------------------|-------------------------------------------------------------------|
 | 11.00-CL-9562734                           | [Download](https://download.fn-archive.com/FortniteClient-11.00-CL-9562734.7z) |
 | 11.01-CL-9728272                           | [Download](https://download.fn-archive.com/FortniteClient-11.01-CL-97282720.7z) |
-| 11.10-CL-9901083                           | ```Soon``` |
-| 11.11-CL-10082788                          | ```Soon``` |
-| 11.21-CL-10481509                          | ```Soon``` |
-| 11.40-CL-11039906                          | ```Soon``` |
+| 11.10-CL-9901083                           | [Download](https://download.fn-archive.com/FortniteClient-11.10-CL-9901083.7z) |
+| 11.11-CL-10082788                          | [Download](https://download.fn-archive.com/FortniteClient-11.11-CL-10082788.7z) |
+| 11.21-CL-10481509                          | [Download](https://download.fn-archive.com/FortniteClient-11.21-CL-10481509.7z) |
+| 11.40-CL-11039906                          | [Download](https://download.fn-archive.com/FortniteClient-11.40-CL-11039906.7z) |
 
 ### Season 12
 
@@ -88,10 +88,10 @@ For questions, contributions, or suggestions, feel free to contact me on Discord
 
 | Build                                      | Download Link                                                      |
 |--------------------------------------------|-------------------------------------------------------------------|
-| 17.10-CL-16745144                          | ```Soon``` |
+| 17.10-CL-16745144                          | [Download](https://download.fn-archive.com/FortniteClient-17.10-CL-16745144.7z) |
 | 17.20-CL-16868155                          | [Download](https://download.fn-archive.com/FortniteClient-17.20-CL-16868155.7z) |
 | 17.21-CL-16967001                          | [Download](https://download.fn-archive.com/FortniteClient-17.21-CL-16967001.7z) |
-| 17.40-CL-17269705                          | ```Soon``` |
+| 17.40-CL-17269705                          | [Download](https://download.fn-archive.com/FortniteClient-17.40-CL-17269705.7z) |
 
 ### Season 18
 
