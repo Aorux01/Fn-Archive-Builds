@@ -19,3 +19,4 @@
 - 17.40-CL-17269705: https://download.fn-archive.com/FortniteClient-17.40-CL-17269705.7z
 - 18.20-CL-17792290: https://download.fn-archive.com/FortniteClient-18.20-CL-17792290.7z
 - 18.21-CL-17811397: https://download.fn-archive.com/FortniteClient-18.21-CL-17811397.7z
+- 24.40-CL-25521145: https://download.fn-archive.com/FortniteClient-24.40-CL-25521145.zip
