@@ -100,4 +100,10 @@ For questions, contributions, or suggestions, feel free to contact me on Discord
 | 18.20-CL-17792290                          | [Download](https://download.fn-archive.com/FortniteClient-18.20-CL-17792290.7z) |
 | 18.21-CL-17811397                          | [Download](https://download.fn-archive.com/FortniteClient-18.21-CL-17811397.7z) |
 
+### Season 24
+
+| Build                                      | Download Link                                                      |
+|--------------------------------------------|-------------------------------------------------------------------|
+| 24.40-CL-25521145                          | [Download](https://download.fn-archive.com/FortniteClient-24.40-CL-25521145.zip) |
+
 *If you have builds you'd like to contribute or share, please reach out!*
