@@ -82,8 +82,8 @@ For questions, contributions, or suggestions, feel free to contact me on Discord
 | Build                                      | Download Link                                                      |
 |--------------------------------------------|-------------------------------------------------------------------|
 | 16.00-CL-15685441                          | [Download](https://download.fn-archive.com/FortniteClient-16.00-CL-15685441.7z) |
-| 16.50-CL-16469788                          | [Download](https://download.fn-archive.com/FortniteClient-16.50-CL-16469788.7z) |
 | 16.10-CL-15913292                          | [Download](https://download.fn-archive.com/FortniteClient-16.10-CL-15913292.7z) |
+| 16.50-CL-16469788                          | [Download](https://download.fn-archive.com/FortniteClient-16.50-CL-16469788.7z) |
 
 ### Season 17
 
