@@ -8,6 +8,7 @@
 - 11.21-CL-10481509: https://download.fn-archive.com/FortniteClient-11.21-CL-10481509.7z
 - 11.40-CL-11039906: https://download.fn-archive.com/FortniteClient-11.40-CL-11039906.7z
 - 12.00-CL-11586896: https://download.fn-archive.com/FortniteClient-12.00-CL-11586896.7z
+- 12.30-CL-12624643: https://download.fn-archive.com/FortniteClient-12.30-CL-12624643.7z
 - 12.60-CL-13477524: https://download.fn-archive.com/FortniteClient-12.60-CL-13477524.7z
 - 15.00-CL-14835335: https://download.fn-archive.com/FortniteClient-15.00-CL-14835335.7z
 - 15.21-CL-15083856: https://download.fn-archive.com/FortniteClient-15.21-CL-15083856.7z
