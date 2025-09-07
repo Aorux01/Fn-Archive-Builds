@@ -1,3 +1,6 @@
+- 4.5.0-CL-4166199: https://download.fn-archive.com/FortniteClient-4.5.0-CL-4166199.rar
+- 5.10-CL-4225813: https://download.fn-archive.com/FortniteClient-5.10-CL-4225813.rar
+- 6.00-CL-4402180: https://download.fn-archive.com/FortniteClient-6.00-CL-4402180.rar
 - 6.20-CL-4497486: https://download.fn-archive.com/FortniteClient-6.20-CL-4497486.rar
 - 9.20-CL-6822798: https://download.fn-archive.com/FortniteClient-9.20-CL-6822798.rar
 - 10.30-CL-8569414: https://download.fn-archive.com/FortniteClient-10.30-CL-8569414.rar
