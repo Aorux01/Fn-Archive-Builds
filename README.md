@@ -34,18 +34,6 @@ For questions, contributions, or suggestions, feel free to contact me on Discord
 
 ## 📥 Available Downloads
 
-### Season 4
-
-| Build                                      | Download Link                                                      |
-|--------------------------------------------|-------------------------------------------------------------------|
-| 4.5.0-CL-4166199                           | [📥 Download](https://download.fn-archive.com/FortniteClient-4.5.0-CL-4166199.rar) |
-
-### Season 5
-
-| Build                                      | Download Link                                                      |
-|--------------------------------------------|-------------------------------------------------------------------|
-| 5.10-CL-4225813                            | [📥 Download](https://download.fn-archive.com/FortniteClient-5.10-CL-4225813.rar) |
-
 ### Season 6
 
 | Build                                      | Download Link                                                      |
