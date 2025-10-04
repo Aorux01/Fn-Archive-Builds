@@ -5,10 +5,7 @@
 - 9.20-CL-6822798: https://download.fn-archive.com/FortniteClient-9.20-CL-6822798.rar
 - 10.30-CL-8569414: https://download.fn-archive.com/FortniteClient-10.30-CL-8569414.rar
 - 11.00-CL-9562734: https://download.fn-archive.com/FortniteClient-11.00-CL-9562734.7z
-- 11.01-CL-9728272: https://download.fn-archive.com/FortniteClient-11.01-CL-97282720.7z
 - 11.10-CL-9901083: https://download.fn-archive.com/FortniteClient-11.10-CL-9901083.7z
-- 11.11-CL-10082788: https://download.fn-archive.com/FortniteClient-11.11-CL-10082788.7z
-- 11.21-CL-10481509: https://download.fn-archive.com/FortniteClient-11.21-CL-10481509.7z
 - 11.40-CL-11039906: https://download.fn-archive.com/FortniteClient-11.40-CL-11039906.7z
 - 12.00-CL-11586896: https://download.fn-archive.com/FortniteClient-12.00-CL-11586896.7z
 - 12.30-CL-12624643: https://download.fn-archive.com/FortniteClient-12.30-CL-12624643.7z
@@ -24,4 +21,3 @@
 - 17.40-CL-17269705: https://download.fn-archive.com/FortniteClient-17.40-CL-17269705.7z
 - 18.20-CL-17792290: https://download.fn-archive.com/FortniteClient-18.20-CL-17792290.7z
 - 18.21-CL-17811397: https://download.fn-archive.com/FortniteClient-18.21-CL-17811397.7z
-- 24.40-CL-25521145: https://download.fn-archive.com/FortniteClient-24.40-CL-25521145.zip
