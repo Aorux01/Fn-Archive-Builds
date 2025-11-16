@@ -77,7 +77,9 @@ For questions, contributions, or suggestions, feel free to contact me on Discord
 | Build                                      | Download Link                                                      |
 |--------------------------------------------|-------------------------------------------------------------------|
 | 15.00-CL-14835335                          | [📥 Download](https://download.fn-archive.com/FortniteClient-15.00-CL-14835335.7z) |
+| 15.10-CL-15014719                          | ⚠️ No longer available |
 | 15.21-CL-15083856                          | [📥 Download](https://download.fn-archive.com/FortniteClient-15.21-CL-15083856.7z) |
+| 15.40-CL-15496915                          | ⛔ Unavailable |
 
 ### Season 16
 
@@ -85,6 +87,7 @@ For questions, contributions, or suggestions, feel free to contact me on Discord
 |--------------------------------------------|-------------------------------------------------------------------|
 | 16.00-CL-15685441                          | [📥 Download](https://download.fn-archive.com/FortniteClient-16.00-CL-15685441.7z) |
 | 16.10-CL-15913292                          | [📥 Download](https://download.fn-archive.com/FortniteClient-16.10-CL-15913292.7z) |
+| 16.20-CL-16042441                          | ⛔ Unavailable |
 | 16.50-CL-16469788                          | ⚠️ No longer available |
 
 ### Season 17
@@ -100,6 +103,7 @@ For questions, contributions, or suggestions, feel free to contact me on Discord
 
 | Build                                      | Download Link                                                      |
 |--------------------------------------------|-------------------------------------------------------------------|
+| 18.10-CL-17661844                          | ⚠️ No longer available |
 | 18.20-CL-17792290                          | [📥 Download](https://download.fn-archive.com/FortniteClient-18.20-CL-17792290.7z) |
 | 18.21-CL-17811397                          | [📥 Download](https://download.fn-archive.com/FortniteClient-18.21-CL-17811397.7z) |
 
