@@ -51,7 +51,7 @@ For questions, contributions, or suggestions, feel free to contact me on Discord
 
 | Build                                      | Download Link                                                      |
 |--------------------------------------------|-------------------------------------------------------------------|
-| 10.30-CL-8569414                           | [📥 Download](https://download.fn-archive.com/FortniteClient-10.30-CL-8569414.rar) |
+| 10.30-CL-8569414                           | ⚠️ No longer available |
 
 ### Season 11
 
