@@ -70,7 +70,9 @@ For questions, contributions, or suggestions, feel free to contact me on Discord
 |--------------------------------------------|-------------------------------------------------------------------|
 | 12.00-CL-11586896                          | ⚠️ No longer available |
 | 12.30-CL-12624643                          | [📥 Download](https://download.fn-archive.com/FortniteClient-12.30-CL-12624643.7z) |
+| 12.41-CL-12905909                          | ⛔ Unavailable |
 | 12.60-CL-13477524                          | [📥 Download](https://download.fn-archive.com/FortniteClient-12.60-CL-13477524.7z) |
+| 12.61-CL-13498980                          | ⛔ Unavailable |
 
 ### Season 15
 
@@ -98,6 +100,7 @@ For questions, contributions, or suggestions, feel free to contact me on Discord
 | 17.20-CL-16868155                          | [📥 Download](https://download.fn-archive.com/FortniteClient-17.20-CL-16868155.7z) |
 | 17.21-CL-16967001                          | ⚠️ No longer available |
 | 17.40-CL-17269705                          | [📥 Download](https://download.fn-archive.com/FortniteClient-17.40-CL-17269705.7z) |
+| 17.50-CL-17388565                          | ⛔ Unavailable |
 
 ### Season 18
 
@@ -106,6 +109,7 @@ For questions, contributions, or suggestions, feel free to contact me on Discord
 | 18.10-CL-17661844                          | ⚠️ No longer available |
 | 18.20-CL-17792290                          | [📥 Download](https://download.fn-archive.com/FortniteClient-18.20-CL-17792290.7z) |
 | 18.21-CL-17811397                          | [📥 Download](https://download.fn-archive.com/FortniteClient-18.21-CL-17811397.7z) |
+| 18.40-CL-18163738                          | ⛔ Unavailable |
 
 ### Season 24
 
